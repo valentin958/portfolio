@@ -18,7 +18,7 @@
             </a>
           </Button>
         </div>
-        <h2 className="text-2xl font-semibold mb-4">Expériences</h2>
+        <h2 className="text-2xl font-semibold mb-4">Expériences professionnelles</h2>
         <Card className="bg-gray-800 p-4 mb-4">
           <CardContent>
             <h3 className="text-xl font-medium">Data Analyst - GRDF</h3>
@@ -71,14 +71,16 @@
             </p>
           </CardContent>
         </Card>
-        <h2 className="text-2xl font-semibold mt-6 mb-4">Compétences</h2>
-        <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
-          <span className="bg-gray-700 px-4 py-2 rounded">Python</span>
-          <span className="bg-gray-700 px-4 py-2 rounded">SQL</span>
-          <span className="bg-gray-700 px-4 py-2 rounded">Tableau</span>
-          <span className="bg-gray-700 px-4 py-2 rounded">Power BI</span>
-          <span className="bg-gray-700 px-4 py-2 rounded">Dataiku</span>
-          <span className="bg-gray-700 px-4 py-2 rounded">MicroStrategy</span>
-        </div>
+        <h2 className="text-2xl font-semibold mt-6 mb-4">Compétences techniques</h2>
+● Langages : Python, SQL, R, JAVA
+<br>
+● Outils : Power BI, Tableau, Jupyter, Azure Synapse
+<br>
+● Frameworks : Pytorch, TensorFlow, Keras, Scikit-learn, Pandas, SQL alchemy, Matplotlib, Flask, Django
+<br>
+● Cloud : Azure, AWS
+<br>
+● Méthodologies : Scrum, Agile
+<br>
       </div>
     </div>
